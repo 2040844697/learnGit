@@ -1,2 +1,2 @@
 1
-Create a git branch is quick & simple.
+Creating a new branch is quick and simple.
