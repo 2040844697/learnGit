@@ -3,3 +3,4 @@ main add new line at head
 Creating a new branch is quick and simple.
 feature add a new line.
 main edit git.txt
+fixed
