@@ -38,6 +38,7 @@ def get_data_list_param():
         yield i, j
 
 
+
 class TestConfig:
 
     def test_err_yml_file_format(self):
